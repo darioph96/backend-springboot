@@ -1,0 +1,3 @@
+INSERT INTO "public"."clientes"("id", "apellido", "create_at", "email", "nombre") VALUES (1, 'Perez', '2021-08-04', 'darcap@gmail.com', 'Dario');
+INSERT INTO "public"."clientes"("id", "apellido", "create_at", "email", "nombre") VALUES (2, 'Damian', '2021-08-05', 'email@gmail.com', 'Hodali');
+INSERT INTO "public"."clientes"("id", "apellido", "create_at", "email", "nombre") VALUES (3, 'Quiroz', '2021-08-05', 'email2@gmail.com', 'Alfredo');
